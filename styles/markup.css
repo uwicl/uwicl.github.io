@@ -1,0 +1,21 @@
+main {
+    padding: 50px max(calc((100% - 600px) / 2), 50px);
+    display: flex;
+    flex-direction: column;
+}
+
+main * {
+    all: revert;
+}
+
+main h1 {
+    text-align: center;
+}
+
+main a, main strong, main em {
+    color: var(--color-red-dark);
+}
+
+main dt {
+    font-weight: 700;
+}
