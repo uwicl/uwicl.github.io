@@ -1,0 +1,44 @@
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+main > h1 {
+    color: var(--color-red-dark);
+}
+
+.login_form {
+    margin: 20px 0px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+}
+
+.login_form > label {
+    font-weight: 700;
+}
+
+.login_form > input {
+    margin-bottom: 10px;
+    height: 20px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    color: var(--color-red-dark);
+    background-color: #ffffff;
+}
+
+.login_form > button {
+    height: 20px;
+    border: none;
+    border-radius: 5px;
+    color: #ffffff;
+    background-color: var(--color-red-dark);
+}
+
+#login_response {
+    height: 18px;
+    color: var(--color-red-dark);
+}
