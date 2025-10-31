@@ -14,7 +14,7 @@ main h1 {
 }
 
 main a, main strong, main em {
-    color: var(--color-red-dark);
+    color: var(--color-red-darkest);
 }
 
 main dt {
