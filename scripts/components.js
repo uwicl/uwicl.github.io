@@ -22,6 +22,7 @@ const COMPONENT_FOOTER = [
     "    <a href=\"https://www.wisc.edu/\">",
     "        <img src=\"/images/uw-logo.svg\" alt=\"UW-Madison's full institutional logo in horizontal orientation\">",
     "        <p>© 2025 The Board of Regents of the University of Wisconsin System</p>",
+    "        <p>The site is not affiliated with UW-Madison</p>",
     "    </a>",
     "</div>",
     "<div class=\"footer_category\">",
