@@ -1,5 +1,6 @@
 main {
     padding: 50px max(calc((100% - 600px) / 2), 50px);
+    padding-top: 100px;
     display: flex;
     flex-direction: column;
 }
