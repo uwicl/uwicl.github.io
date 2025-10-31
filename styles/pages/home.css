@@ -29,6 +29,12 @@ main > h2 {
     font-weight: 700;
     border-radius: 5px;
     border: 2px solid #000000;
+    transition-duration: 0.1s;
+    transition-timing-function: ease-in-out;
+}
+
+.home_pages > a:hover {
+    transform: translateY(-3px);
 }
 
 .home_pages > a[data-lang="html"] {

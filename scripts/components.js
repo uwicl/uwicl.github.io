@@ -17,7 +17,7 @@ const COMPONENT_HEADER = [
 const COMPONENT_FOOTER = [
     "<div class=\"footer_category footer_logo\">",
     "    <a href=\"https://www.wisc.edu/\">",
-    "        <img src=\"images/uw-logo.svg\" alt=\"UW-Madison's full institutional logo in horizontal orientation\">",
+    "        <img src=\"/images/uw-logo.svg\" alt=\"UW-Madison's full institutional logo in horizontal orientation\">",
     "        <p>© 2025 The Board of Regents of the University of Wisconsin System</p>",
     "    </a>",
     "</div>",
