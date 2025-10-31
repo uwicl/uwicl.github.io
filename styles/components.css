@@ -9,9 +9,11 @@ header {
     left: 0px;
     color: #ffffff;
     background-color: var(--color-red-dark);
+    text-wrap: nowrap;
 }
 
 header > p {
+    width: 200px;
     font-weight: 700;
 }
 
@@ -26,6 +28,8 @@ header > nav > *:not(:last-child)::after {
 }
 
 .login {
+    margin-left: 119px;
+    width: 81px;
     padding: 3px 20px;
     color: #000000;
     background-color: #ffffff;
